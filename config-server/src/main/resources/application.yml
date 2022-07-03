@@ -9,4 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/vallabhdev/config-server
-            clone-on-start: true
+          clone-on-start: true
